@@ -1,0 +1,16 @@
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.Form1.resources
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.vbproj.GenerateResource.cache
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfoInputs.cache
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfo.vb
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.vbproj.CoreCompileInputs.cache
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\bin\Debug\net8.0-windows\Arrays.exe
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\bin\Debug\net8.0-windows\Arrays.deps.json
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\bin\Debug\net8.0-windows\Arrays.runtimeconfig.json
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\bin\Debug\net8.0-windows\Arrays.dll
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\bin\Debug\net8.0-windows\Arrays.pdb
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.dll
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\refint\Arrays.dll
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.pdb
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\Arrays.genruntimeconfig.cache
+E:\LENOVO BACKUP\OneDrive - ABB\IT\3\ICT3611 - Advanced Graphical user Interface Programming\VB_basic\Arrays\obj\Debug\net8.0-windows\ref\Arrays.dll
