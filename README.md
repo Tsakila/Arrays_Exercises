@@ -67,7 +67,7 @@ Run each exercise individually to see the output.
 
 📜 License
 
-This project is open-source under the MIT License.
+This project is open-source under the BSD 2-Clause License.
 
 Happy Coding! 🚀
 
