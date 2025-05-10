@@ -46,7 +46,7 @@ Each exercise focuses on a different operation, from basic iteration to advanced
 
 📥 How to Use
 
-Clone/download the repository. [https://github.com/Tsakila/Arrays_Exercises]
+Clone/download the repository. [https://github.com/Tsakila/Arrays_Exercises.git]
 
 Open in Visual Studio. [Download using this link : https://visualstudio.microsoft.com/downloads/]
 
